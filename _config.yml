@@ -110,7 +110,7 @@ author:
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "지식을 공유하자"
   location         : "서울 / 일산"
-  email            :
+  email            : "hjy0085@naver.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
